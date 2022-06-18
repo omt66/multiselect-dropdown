@@ -1,6 +1,6 @@
 {
   "name": "multiselect-dropdownx",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Based on srigar's react multiselect dropdown component with search and various features",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

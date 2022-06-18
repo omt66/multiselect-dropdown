@@ -1,3 +1,4 @@
+
 # REACT MULTISELECT DROPDOWN 
 
 [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://multiselect-react-dropdown.vercel.app/?path=/docs/multiselect-dropdown--flat-array)
@@ -28,9 +29,9 @@ A React component which provides multi select functionality with various feature
 
 ## 1. Installation 🔧
 ```
-npm install multiselect-react-dropdown  
+npm install multiselect-dropdownx
 
-yarn add multiselect-react-dropdown
+yarn add multiselect-dropdownx
 ```
 ----
 ## 2. Demo 👁️
@@ -176,3 +177,4 @@ ref={this.multiselectRef}
 
 ## 8. Licence 📜
 MIT
+
