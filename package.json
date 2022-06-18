@@ -1,7 +1,7 @@
 {
-  "name": "multiselect-react-dropdown",
-  "version": "2.0.22",
-  "description": "React multiselect dropdown component with search and various features",
+  "name": "multiselect-dropdownx",
+  "version": "1.0.2",
+  "description": "Based on srigar's react multiselect dropdown component with search and various features",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
@@ -16,7 +16,7 @@
   "homepage": "https://multiselect-react-dropdown.vercel.app/?path=/docs/multiselect-dropdown--flat-array",
   "repository": {
     "type": "git",
-    "url": "https://github.com/srigar/multiselect-react-dropdown"
+    "url": "https://github.com/omt66/multiselect-dropdown"
   },
   "peerDependencies": {
     "react": "^16.7.0 || ^17.0.0 || ^18.0.0"
